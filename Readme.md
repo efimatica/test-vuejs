@@ -13,6 +13,6 @@ A continuación dispones de un wireframe de ejemplo. No tiene que ser exactament
 
 
 ### Valoraremos positivamente:
-- El uso de buenas prácticas y que utilices el potencial de ES6.
+- El uso de buenas prácticas.
 - Que incluyas tests de tus componentes.
 - Si utilizas librerías, explícanos por qué las has escogido.
